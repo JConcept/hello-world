@@ -10,3 +10,4 @@ This is my first edit of the readme file.
 ## Content of this repository
 
 - Tuto sur comment créer son propre serveur virtuel. Dans le dossier [01-virtualMachine](./01-virtualMachine)
+- Checkliste à suivre quand on crée un site web [CheckListWEB](./CheckListWEB)
